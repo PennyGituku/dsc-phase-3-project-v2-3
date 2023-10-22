@@ -42,7 +42,7 @@ The CDC recommends flu vaccination for everyone aged 6 months and older in the U
 
 # Problem Statement
 
-![Alt Text](https://i.gifer.com/Um8A.gif)
+![Problem](https://i.gifer.com/Um8A.gif)
 
 Faced with the reality of how quickly viral diseases like H1N1 and seasonal flu can spread, along with their associated health risks and a notable mortality rate, there is a pressing need to develop a model to accurately identify individuals who are more likely to receive their H1N1 and seasonal flu vaccines.
 
