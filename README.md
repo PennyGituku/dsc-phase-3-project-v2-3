@@ -61,7 +61,7 @@ Create a model to assess feature importance within the dataset, helping identify
 > The model's performance can be done better with access to more features such as location and employment features that were encoded due to data privacy, the model has a high success rate and should be considered for deployment.
 
 * Data Analysis
-![Heatmap](heatmap.png)
+![image](https://github.com/PennyGituku/dsc-phase-3-project-v2-3/assets/133040605/cfab1e09-c9de-41d7-9c45-ea47eaeabfee)
 
 The variables don't have a high correlation thus there is no multicollinearity.
 
@@ -70,7 +70,8 @@ classification models used were:
 
 The model achieved an accuracy of 85%, indicating it correctly predicted 85% of instances. However, it's less effective in identifying instances where the vaccine was taken (class 1), as shown by the lower recall and F1-score for class 1. The report helps assess the model's performance in predicting vaccine decisions.
 
-![Feature Importance](feature_importance.png)
+![image](![feature_importance](https://github.com/PennyGituku/dsc-phase-3-project-v2-3/assets/133040605/39ead0d1-9259-42ca-9733-237f6d9f8ea3)
+)
 
 The most important feature, 'opinion_h1n1_risk,' suggests that people's perception of the risk associated with the H1N1 virus plays a significant role in their decision to get vaccinated.
 The 'seasonal_vaccine' feature is the second most important, indicating that whether individuals have received the seasonal flu vaccine in the past influences their decision to get the H1N1 vaccine.
