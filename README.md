@@ -1,4 +1,3 @@
-![image]([https://github.com/PennyGituku/dsc-phase-3-project-v2-3/assets/133040605/cfab1e09-c9de-41d7-9c45-ea47eaeabfee](https://www.uab.edu/news/media/k2/items/cache/dc80c65de821f8c6a2287d5456ad5441_XL.jpg))
 # Phase 3 Project Description
 
 # FORECAST INDIVIDUALS' H1N1 AND SEASONAL FLU VACCINE UP![image](https://github.com/PennyGituku/dsc-phase-3-project-v2-3/assets/133040605/e179987b-b3aa-4b98-8c63-4558c623f724)
@@ -89,8 +88,8 @@ classification models used were:
 
 The model achieved an accuracy of 85%, indicating it correctly predicted 85% of instances. However, it's less effective in identifying instances where the vaccine was taken (class 1), as shown by the lower recall and F1-score for class 1. The report helps assess the model's performance in predicting vaccine decisions.
 
-![image](![feature_importance](https://github.com/PennyGituku/dsc-phase-3-project-v2-3/assets/133040605/39ead0d1-9259-42ca-9733-237f6d9f8ea3)
-)
+![image](https://github.com/PennyGituku/dsc-phase-3-project-v2-3/assets/133040605/39ead0d1-9259-42ca-9733-237f6d9f8ea3)
+
 
 The most important feature, 'opinion_h1n1_risk,' suggests that people's perception of the risk associated with the H1N1 virus plays a significant role in their decision to get vaccinated.
 The 'seasonal_vaccine' feature is the second most important, indicating that whether individuals have received the seasonal flu vaccine in the past influences their decision to get the H1N1 vaccine.
