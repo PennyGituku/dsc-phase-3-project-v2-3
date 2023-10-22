@@ -1,24 +1,24 @@
 
 # Phase 3 Project Description
 
-Congratulations! You've made it through another _intense_ module, and now you're ready to show off your newfound Machine Learning skills!
+# FORECAST INDIVIDUALS' H1N1 AND SEASONAL FLU VACCINE UPTAKE.
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-3-project-v2-3/main/images/smart.gif)
+## BY PENINAH WAMBUI GITUKU
 
-All that remains in Phase 3 is to put your new skills to use with another large project!
+![awesome]([https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-3-project-v2-3/main/images/smart.gif](https://miro.medium.com/v2/resize:fit:960/1*Bfctl9XiUKq-IWBJr0tvWA.gif))
 
-In this project description, we will cover:
+# TABLE OF CONTENTS
 
 * Project Overview
-* Deliverables
-* Grading
-* Getting Started
+* Proposed Solution
+* Which model best predicts likelihood of H1N1 vaccine being taken?
+* Which key factors should be emphasized on when promoting vaccination?
 
 ## Project Overview
 
 For this project, you will engage in the full data science process from start to finish, solving a **classification** problem using a **dataset of your choice**.
 
-### Business Problem and Data
+### Proposed Solution
 
 Similar to the Phase 2 project, it is up to you to define a stakeholder and business problem. Unlike the Phase 2 project, you are also responsible for choosing a dataset.
 
