@@ -43,7 +43,7 @@ Seasonal influenza or the Flu is an acute respiratory infection caused by influe
 The CDC recommends flu vaccination for everyone aged 6 months and older in the United States since the 2010-2011 flu season. It is crucial for preventing flu and its complications, especially for those at higher risk. Suitability for vaccination or a specific vaccine depends on factors like age, health, and allergies. Various vaccines are approved for different age groups, and some are not recommended for specific individuals. Notably, there are three flu vaccines preferentially recommended for people aged 65 and older.
 
 # Problem Statement
-![gif](https://i.gifer.com/Um8A.gif)
+![gif](https://i.gifer.com/origin/f7/f748a43312487000f282968b97aa60fe.gif)
 
 Faced with the reality of how quickly viral diseases like H1N1 and seasonal flu can spread, along with their associated health risks and a notable mortality rate, there is a pressing need to develop a model to accurately identify individuals who are more likely to receive their H1N1 and seasonal flu vaccines.
 
@@ -86,7 +86,7 @@ Create a model to assess feature importance within the dataset, helping identify
 # Data Analysis
 ![image](https://github.com/PennyGituku/dsc-phase-3-project-v2-3/assets/133040605/cfab1e09-c9de-41d7-9c45-ea47eaeabfee)
 
-The variables don't have a high correlation thus there is no multicollinearity.
+The variables don't have a high correlation, seeing that the highest correlation is 0.58, thus there is no multicollinearity.
 
 classification models used were:
 > Logistic Regression: It's a simple and widely used model for binary classification. It's also extendable to multiclass classification.
