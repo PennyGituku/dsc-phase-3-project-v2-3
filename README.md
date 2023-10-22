@@ -30,6 +30,8 @@
 # Business Understanding
   ## Project Overview
 
+![Vaccine](https://media.tenor.com/3nkEeVR-IOYAAAAC/needle-injection.gif)
+
 Seasonal influenza or the Flu is an acute respiratory infection caused by influenza viruses all over the world and most people tend to recover without treatment. [Symptoms include acute onset fever, cough, sore throat, body aches, and fatigue.](https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal))
 
 [The H1N1 flu, sometimes called Swine flu is a type of influenza A virus. During the 2009-10 flu season, a new H1N1 virus began causing illness in humans and it was often called Swine flu and was a combination of influenza viruses that infect pigs, birds, and humans. The World Health Organization (WHO) declared the H1N1 flu to be a pandemic in 2009. That year the virus caused an estimated 284,400 deaths worldwide. In August 2010, WHO declared the pandemic over. However, the H1N1 flu strain from the pandemic became one of the strains that cause seasonal flu. Most people with the flu get better on their own. But flu and its complications can be deadly, especially for people at high risk. The seasonal flu vaccine can now help protect against the H1N1 flu and other seasonal flu viruses.](https://www.mayoclinic.org/diseases-conditions/swine-flu/symptoms-causes/syc-20378103#:~:text=The%20World%20Health%20Organization%20(WHO,strains%20that%20cause%20seasonal%20flu.) 
