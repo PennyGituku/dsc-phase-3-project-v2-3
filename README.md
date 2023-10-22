@@ -5,7 +5,7 @@
 
 ## BY PENINAH WAMBUI GITUKU
 
-![awesome]([https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-3-project-v2-3/main/images/smart.gif](https://miro.medium.com/v2/resize:fit:960/1*Bfctl9XiUKq-IWBJr0tvWA.gif))
+![awesome]((https://miro.medium.com/v2/resize:fit:960/1*Bfctl9XiUKq-IWBJr0tvWA.gif))
 
 # TABLE OF CONTENTS
 
