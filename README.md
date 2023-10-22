@@ -12,6 +12,23 @@
 # TABLE OF CONTENTS
 
 * Business Understanding
+
+* Problem Statement
+
+* Proposed Solution
+
+* Specific Objectives
+
+* Research Questions
+
+* Success Criteria
+
+* Data Analysis
+
+* Conclusion
+  
+
+# Business Understanding
   > Project Overview
 
 Seasonal influenza or the Flu is an acute respiratory infection caused by influenza viruses all over the world and most people tend to recover without treatment. [Symptoms include acute onset fever, cough, sore throat, body aches, and fatigue.](https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal))
@@ -22,7 +39,7 @@ Seasonal influenza or the Flu is an acute respiratory infection caused by influe
 
 The CDC recommends flu vaccination for everyone aged 6 months and older in the United States since the 2010-2011 flu season. It is crucial for preventing flu and its complications, especially for those at higher risk. Suitability for vaccination or a specific vaccine depends on factors like age, health, and allergies. Various vaccines are approved for different age groups, and some are not recommended for specific individuals. Notably, there are three flu vaccines preferentially recommended for people aged 65 and older.
 
-* Problem Statement
+# Problem Statement
 
 Faced with the reality of how quickly viral diseases like H1N1 and seasonal flu can spread, along with their associated health risks and a notable mortality rate, there is a pressing need to develop a model to accurately identify individuals who are more likely to receive their H1N1 and seasonal flu vaccines.
 
@@ -32,7 +49,7 @@ Efficient identification of such individuals is not only essential to boost vacc
 
 The urgency of this task is underlined by the aim to leverage data-driven insights to enhance public health outcomes and to prevent the rapid transmission of these influenza strains, ultimately reducing mortality rates associated with these viral infections.
   
-* Proposed Solution
+# Proposed Solution
 
 - Develop data-driven predictive models for identifying individuals likely to receive H1N1 and seasonal flu vaccines.
 - Utilize essential features, such as demographics and vaccination history, for accurate predictions.
@@ -43,16 +60,16 @@ The urgency of this task is underlined by the aim to leverage data-driven insigh
 - Foster collaborative partnerships with healthcare providers and community organizations.
 - Establish an evaluation and feedback loop to continuously enhance the accuracy of predictions and vaccination rates.
 
-* Specific Objectives
+# Specific Objectives
 
 Create a model to assess feature importance within the dataset, helping identify key factors to emphasize when promoting vaccination.
 
-* Research Questions
+# Research Questions
   > Which model best predicts the likelihood of the H1N1 vaccine being taken?
   
   > Which key factors should be emphasized on when promoting vaccination?
 
-* Success Criteria
+# Success Criteria
 
 > The Logistic Regression model demonstrates a good overall performance in predicting vaccine uptake.
 
@@ -62,7 +79,7 @@ Create a model to assess feature importance within the dataset, helping identify
 
 > The model's performance can be done better with access to more features such as location and employment features that were encoded due to data privacy, the model has a high success rate and should be considered for deployment.
 
-* Data Analysis
+# Data Analysis
 ![image](https://github.com/PennyGituku/dsc-phase-3-project-v2-3/assets/133040605/cfab1e09-c9de-41d7-9c45-ea47eaeabfee)
 
 The variables don't have a high correlation thus there is no multicollinearity.
@@ -97,11 +114,6 @@ KNN performs moderately well but has lower recall and F1-score for identifying c
 
 The logistic Regression classifier model was tuned and a  pipeline was created and saved in Joblib
 
-* Conclusion
+# Conclusion
 
-The logistic regression model displays promise in predicting vaccine uptake with considerations for improving precision and recall while socioeconomic and demographic factors play significant roles
-
-
-## Summary
-
-This project is an opportunity to expand your data science toolkit by evaluating, choosing, and working with new datasets. Spending time up front making sure you have a good dataset for a solvable problem will help avoid the major problems that can sometimes derail data science projects. You've got this!
+The logistic regression model displays promise in predicting vaccine uptake with considerations for improving precision and recall while socioeconomic and demographic factors play significant roles.
