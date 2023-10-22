@@ -1,7 +1,8 @@
-![image](https://github.com/PennyGituku/dsc-phase-3-project-v2-3/assets/133040605/cfab1e09-c9de-41d7-9c45-ea47eaeabfee)
+![image]([https://github.com/PennyGituku/dsc-phase-3-project-v2-3/assets/133040605/cfab1e09-c9de-41d7-9c45-ea47eaeabfee](https://www.uab.edu/news/media/k2/items/cache/dc80c65de821f8c6a2287d5456ad5441_XL.jpg))
 # Phase 3 Project Description
 
-# FORECAST INDIVIDUALS' H1N1 AND SEASONAL FLU VACCINE UPTAKE.
+# FORECAST INDIVIDUALS' H1N1 AND SEASONAL FLU VACCINE UP![image](https://github.com/PennyGituku/dsc-phase-3-project-v2-3/assets/133040605/e179987b-b3aa-4b98-8c63-4558c623f724)
+TAKE.
 
 ## BY PENINAH WAMBUI GITUKU
 
