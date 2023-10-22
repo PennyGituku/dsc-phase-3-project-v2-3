@@ -42,6 +42,8 @@ The CDC recommends flu vaccination for everyone aged 6 months and older in the U
 
 # Problem Statement
 
+![Alt Text](https://i.gifer.com/Um8A.gif)
+
 Faced with the reality of how quickly viral diseases like H1N1 and seasonal flu can spread, along with their associated health risks and a notable mortality rate, there is a pressing need to develop a model to accurately identify individuals who are more likely to receive their H1N1 and seasonal flu vaccines.
 
 [During the H1N1 pandemic in 2009, the virus caused more than 284,000 deaths worldwide, according to the US Centers for Disease Control and Prevention. At that time, the World Health Organization declared H1N1 a pandemic virus. However, the virus is now circulating like a seasonal influenza virus.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928226/#:~:text=In%20Canada%2C%20seasonal%20flu%20normally,for%20Disease%20Control%20and%20Prevention.)
